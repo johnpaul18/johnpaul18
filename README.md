@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @johnpaul18
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning web development
+- 💞️ I’m looking to collaborate on JavaScript projects
 - 📫 undergroundph12@gmail.com
 
 <!---
